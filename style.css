@@ -1,0 +1,84 @@
+body{
+
+}
+#titre{
+    color: rgb(224, 224, 37);
+    font-family: sour gummy;
+    font-size: 45px;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.class1{
+    color: rgb(224, 224, 37);
+    font-family: sour gummy;
+    font-size: 25px;
+
+}
+.line{
+    border-top: 2px solid rgb(224, 224, 37);
+}
+.text{
+    font-family: roboto;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+#video{
+   width: 500px;
+   height: 200px;
+   border-radius: 5px;
+   border: bold;
+   margin-right: 500px;
+   margin-left: 350px;
+}
+#image{
+    border-radius: 5px;
+    border: bold;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+#button{
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: roboto;
+    font-size: 15px;
+    background-color: rgb(224, 224, 37);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    border: bold;
+    cursor: pointer;
+}
+#button:active{
+    background-color: white;
+    color:  rgb(224, 224, 37);
+}
+#main{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 400px;
+}
+#div{
+    display: block;
+}
+p{
+    font-family: roboto;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 500x;
+    margin-bottom: 10px;
+    margin-right: 370px;
+    text-align: left;
+    padding-top: 10px;
+}
+#vl{
+    border-left: 4px solid rgb(224, 224, 37);
+    height: 65px;
+}
